@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, Welcome to App World!"
+    return "Hello, Welcome to Azure Web App World!"
